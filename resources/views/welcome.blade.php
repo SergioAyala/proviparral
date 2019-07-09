@@ -83,7 +83,7 @@
                 </div>
 
                 <div class="links">
-                   <a href="https://www.ctn.cl">Crece tu negocio</a>
+                   <a>Crece tu negocio</a>
                     <a>Desarrollado por Sergio Ayala Del Castillo</a>
                 </div>
             </div>
