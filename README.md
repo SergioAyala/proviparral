@@ -1,4 +1,4 @@
-proviparral Git Bash, Powershell o CMD. 
+proviparral.
 
 En la terminal deberá clonar mi repositorio github (git clone git@github.com:SergioAyala/proviparral.git), 
 Copiar .env.example .env 
