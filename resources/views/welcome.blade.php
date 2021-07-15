@@ -83,7 +83,7 @@
                 </div>
 
                 <div class="links">
-                   <a>Crece tu negocio</a>
+                   <a>Colegio Providencia Parral</a>
                     <a>Desarrollado por Sergio Ayala Del Castillo</a>
                 </div>
             </div>
